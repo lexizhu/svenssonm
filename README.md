@@ -29,6 +29,7 @@ OR
 ``` r
 install.packages("devtools")
 devtools::install_github("lexizhu/svenssonm")
+library(svenssonm)
 ```
 
 #### The Main Components
