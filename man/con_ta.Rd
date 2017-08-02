@@ -11,7 +11,7 @@ con_ta(x, y, level = 5)
 
 \item{y}{a numeric vector of data values, must have same length as x.}
 
-\item{level}{the dimension of the contengency table, the default is 5.}
+\item{level}{the dimension of the contingency table, the default is 5.}
 }
 \value{
 A contingency table based on \code{x} and \code{y}.
