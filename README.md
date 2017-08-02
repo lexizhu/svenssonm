@@ -2,7 +2,7 @@
 svenssonm
 =========
 
-The goal of svenssonm is to make it easier to realize Svensson's Method by R. Svensson's Method is a rank-invariant nonparametric method for the analysis of ordered scales which measures the level of change both from systematic and individual aspects. Please refer to the following dissertation for more detail information about Svensson's Method.
+The goal of svenssonm is to make it easier to realize Svensson's Method by R. Svensson's Method is a rank-invariant nonparametric method for the analysis of ordered scales which measures the level of change both from systematic and individual aspects. Please refer to the following dissertation for more detail information about Svensson's Method:Svensson E. Analysis of systematic and random differences between paired ordinal categorical data \[dissertation\]. Stockholm: Almqvist & Wiksell International; 1993.
 
 Example
 -------

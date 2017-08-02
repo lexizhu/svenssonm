@@ -22,5 +22,6 @@ z <- con_ta(x,y,)
 pa(z)
 }
 \seealso{
-\code{\link{con_ta}} for generating contengency table.
+\code{\link{con_ta}} for generating contengency table. \code{\link{sresult}} for summary of
+Svensson's method analysis.
 }

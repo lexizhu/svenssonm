@@ -24,3 +24,6 @@ x <- c (1:5,5:1)
 y <- c(1:5,1,1,5,4,1)
 con_ta(x,y,)
 }
+\seealso{
+\code{\link{sresult}} for summary of Svensson's method analysis.
+}

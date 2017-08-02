@@ -10,7 +10,7 @@
 #' @return \code{rp} and \code{rc} give the RP and RC value. \code{rpse} and \code{rcse}
 #' give the standard error of RP and RC.
 #' @seealso \code{\link{con_ta}} for generating contengency table. \code{\link{indichange}}
-#' for individual change.
+#' for individual change. \code{\link{sresult}} for summary of Svensson's method analysis.
 #' @examples
 #' x <- c (1:5,5:1)
 #' y <- c(1:5,1,1,5,4,1)

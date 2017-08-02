@@ -4,7 +4,8 @@
 #'
 #' @param t The contengency table for Svensson's method, a two-dimension matrix.
 #' @return \code{pa} gives the PA value, multiply by 100 to get a percentage number.
-#' @seealso \code{\link{con_ta}} for generating contengency table.
+#' @seealso \code{\link{con_ta}} for generating contengency table. \code{\link{sresult}} for summary of
+#' Svensson's method analysis.
 #' @examples
 #' x <- c (1:5,5:1)
 #' y <- c(1:5,1,1,5,4,1)

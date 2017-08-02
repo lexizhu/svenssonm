@@ -6,6 +6,7 @@
 #' @param y a numeric vector of data values, must have same length as x.
 #' @param level the dimention of the contengency table, the default is 5.
 #' @return A contingency table based on \code{x} and \code{y}.
+#' @seealso \code{\link{sresult}} for summary of Svensson's method analysis.
 #' @examples
 #' x <- c (1:5,5:1)
 #' y <- c(1:5,1,1,5,4,1)

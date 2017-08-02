@@ -5,9 +5,9 @@
 #'
 #' @param t The contengency table for Svensson's method, a two-dimension matrix.
 #' @return \code{sresult} lists the results for Svenddon's method. PA for percentage agreement,
-#' RP for relative position, SE(RP) and CI(RP) for the corresponding standard error and 95% confidence interval,
-#' RC for relative concentration, SE(RC) and CI(RC) for the corresponding standard error and 95% confidence interval,
-#' RV for relative rank variance, SE(RV) and CI(RV) for the corresponding standard error and 95% confidence interval,
+#' RP for relative position, SE(RP) and CI(RP) for the corresponding standard error and 95\% confidence interval,
+#' RC for relative concentration, SE(RC) and CI(RC) for the corresponding standard error and 95\% confidence interval,
+#' RV for relative rank variance, SE(RV) and CI(RV) for the corresponding standard error and 95\% confidence interval,
 #' IV for internal rank variance, R.Alpha for augmented correlation coefficient, P.R.Alpha for the corresponding p-value
 #' (significant level 0.05).
 #' @seealso \code{\link{con_ta}} for generating contengency table.

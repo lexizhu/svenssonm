@@ -12,7 +12,7 @@
 #' and the corresponding p-value.
 #' @importFrom stats pnorm
 #' @seealso \code{\link{con_ta}} for generating contengency table. \code{\link{syschange}}
-#' for systematic change.
+#' for systematic change. \code{\link{sresult}} for summary of Svensson's method analysis.
 #' @examples
 #' x <- c (1:5,5:1)
 #' y <- c(1:5,1,1,5,4,1)

@@ -45,5 +45,5 @@ pralpha(z)
 }
 \seealso{
 \code{\link{con_ta}} for generating contengency table. \code{\link{syschange}}
-for systematic change.
+for systematic change. \code{\link{sresult}} for summary of Svensson's method analysis.
 }

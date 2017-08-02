@@ -40,5 +40,5 @@ rcse(z)
 }
 \seealso{
 \code{\link{con_ta}} for generating contengency table. \code{\link{indichange}}
-for individual change.
+for individual change. \code{\link{sresult}} for summary of Svensson's method analysis.
 }
