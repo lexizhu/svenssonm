@@ -1,0 +1,14 @@
+---
+title: "NEWS"
+author: "Lexi Zhu"
+date: "2017.8.2"
+output: md_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## svenssonm 0.1.0
+Initial Version
+
