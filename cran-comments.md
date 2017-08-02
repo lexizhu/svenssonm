@@ -7,4 +7,6 @@ Test environments
 R CMD check results
 -------------------
 
-There were no ERRORs, WARNINGs or NOTEs.
+There were no ERRORs or WARNINGs.
+
+One NOTE for this is a new submission.

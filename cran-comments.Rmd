@@ -14,5 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * ubuntu 14.04.5 (on travis-ci), R 3.4.1
 
 ## R CMD check results
-There were no ERRORs, WARNINGs or NOTEs.
+There were no ERRORs or WARNINGs.
+
+One NOTE for this is a new submission.
 
