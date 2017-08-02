@@ -11,13 +11,13 @@ con_ta(x, y, level = 5)
 
 \item{y}{a numeric vector of data values, must have same length as x.}
 
-\item{level}{the dimention of the contengency table, the default is 5.}
+\item{level}{the dimension of the contengency table, the default is 5.}
 }
 \value{
 A contingency table based on \code{x} and \code{y}.
 }
 \description{
-Generate Contengency table for Svensson's Method
+Generate Contingency table for Svensson's Method
 }
 \examples{
 x <- c (1:5,5:1)

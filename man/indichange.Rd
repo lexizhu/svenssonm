@@ -20,7 +20,7 @@ ralpha(t)
 pralpha(t)
 }
 \arguments{
-\item{t}{The contengency table for Svensson's method, a two-dimension matrix.}
+\item{t}{The contingency table for Svensson's method, a two-dimension matrix.}
 }
 \value{
 \code{rv} and \code{iv} give the RV and IV value. \code{rvse} gives the standard
@@ -44,6 +44,6 @@ ralpha(z)
 pralpha(z)
 }
 \seealso{
-\code{\link{con_ta}} for generating contengency table. \code{\link{syschange}}
+\code{\link{con_ta}} for generating contingency table. \code{\link{syschange}}
 for systematic change. \code{\link{sresult}} for summary of Svensson's method analysis.
 }

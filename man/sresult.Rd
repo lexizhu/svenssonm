@@ -7,10 +7,10 @@
 sresult(t)
 }
 \arguments{
-\item{t}{The contengency table for Svensson's method, a two-dimension matrix.}
+\item{t}{The contingency table for Svensson's method, a two-dimension matrix.}
 }
 \value{
-\code{sresult} lists the results for Svenddon's method. PA for percentage agreement,
+\code{sresult} lists the results for Svensson's method. PA for percentage agreement,
 RP for relative position, SE(RP) and CI(RP) for the corresponding standard error and 95\% confidence interval,
 RC for relative concentration, SE(RC) and CI(RC) for the corresponding standard error and 95\% confidence interval,
 RV for relative rank variance, SE(RV) and CI(RV) for the corresponding standard error and 95\% confidence interval,
@@ -18,7 +18,7 @@ IV for internal rank variance, R.Alpha for augmented correlation coefficient, P.
 (significant level 0.05).
 }
 \description{
-List all the results for Svenddon's Method. Including percentage agreement, systematic change
+List all the results for Svensson's Method. Including percentage agreement, systematic change
 and individual change.
 }
 \examples{
@@ -28,5 +28,5 @@ z <- con_ta(x,y,)
 sresult(z)
 }
 \seealso{
-\code{\link{con_ta}} for generating contengency table.
+\code{\link{con_ta}} for generating contingency table.
 }

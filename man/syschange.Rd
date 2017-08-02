@@ -17,7 +17,7 @@ rc(t)
 rcse(t)
 }
 \arguments{
-\item{t}{The contengency table for Svensson's method, a two-dimension matrix.}
+\item{t}{The contingency table for Svensson's method, a two-dimension matrix.}
 }
 \value{
 \code{rp} and \code{rc} give the RP and RC value. \code{rpse} and \code{rcse}
@@ -39,6 +39,6 @@ rc(z)
 rcse(z)
 }
 \seealso{
-\code{\link{con_ta}} for generating contengency table. \code{\link{indichange}}
+\code{\link{con_ta}} for generating contingency table. \code{\link{indichange}}
 for individual change. \code{\link{sresult}} for summary of Svensson's method analysis.
 }

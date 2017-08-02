@@ -5,13 +5,13 @@
 #' A measure of the closeness of observations to the rank transformable pattern of change is
 #' defined as the augmented correlation coefficient (ralpha) and its p-value.
 #'
-#' @param t The contengency table for Svensson's method, a two-dimension matrix.
+#' @param t The contingency table for Svensson's method, a two-dimension matrix.
 #' @name indichange
 #' @return \code{rv} and \code{iv} give the RV and IV value. \code{rvse} gives the standard
 #' error of RV. \code{ralpha} and \code{pralpha} give the augmented correlation coefficient
 #' and the corresponding p-value.
 #' @importFrom stats pnorm
-#' @seealso \code{\link{con_ta}} for generating contengency table. \code{\link{syschange}}
+#' @seealso \code{\link{con_ta}} for generating contingency table. \code{\link{syschange}}
 #' for systematic change. \code{\link{sresult}} for summary of Svensson's method analysis.
 #' @examples
 #' x <- c (1:5,5:1)

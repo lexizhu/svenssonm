@@ -7,13 +7,13 @@
 pa(t)
 }
 \arguments{
-\item{t}{The contengency table for Svensson's method, a two-dimension matrix.}
+\item{t}{The contingency table for Svensson's method, a two-dimension matrix.}
 }
 \value{
 \code{pa} gives the PA value, multiply by 100 to get a percentage number.
 }
 \description{
-The percentage agreement (PA) which shows the proposion of the subjects who did not change their choices.
+The percentage agreement (PA) which shows the proportion of the subjects who did not change their choices.
 }
 \examples{
 x <- c (1:5,5:1)
@@ -22,6 +22,6 @@ z <- con_ta(x,y,)
 pa(z)
 }
 \seealso{
-\code{\link{con_ta}} for generating contengency table. \code{\link{sresult}} for summary of
+\code{\link{con_ta}} for generating contingency table. \code{\link{sresult}} for summary of
 Svensson's method analysis.
 }

@@ -5,11 +5,11 @@
 #' Also, the value and the standard error of relative concentration (RC), a comprehensive
 #' evaluation of the systematic change.
 #'
-#' @param t The contengency table for Svensson's method, a two-dimension matrix.
+#' @param t The contingency table for Svensson's method, a two-dimension matrix.
 #' @name syschange
 #' @return \code{rp} and \code{rc} give the RP and RC value. \code{rpse} and \code{rcse}
 #' give the standard error of RP and RC.
-#' @seealso \code{\link{con_ta}} for generating contengency table. \code{\link{indichange}}
+#' @seealso \code{\link{con_ta}} for generating contingency table. \code{\link{indichange}}
 #' for individual change. \code{\link{sresult}} for summary of Svensson's method analysis.
 #' @examples
 #' x <- c (1:5,5:1)
