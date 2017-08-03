@@ -1,13 +1,23 @@
 ---
 title: "cran-comments"
-author: "Lexi Zhu"
-date: "2017.8.2"
+author: "Yingyan Zhu"
+date: "2017.8.3"
 output: md_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+## Resubmission
+This is a resubmission. In this version I have:
+
+* Simplify the title.
+
+* Modify the description part to make it more concise.
+
+* Modify the 'Value' part of sresult.Rd to make it more concise.
+
 
 ## Test environments
 * Local Windows 10 (devel and release), R 3.4.1

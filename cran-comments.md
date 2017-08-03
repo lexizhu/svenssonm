@@ -1,3 +1,14 @@
+Resubmission
+------------
+
+This is a resubmission. In this version I have:
+
+-   Simplify the title.
+
+-   Modify the description part to make it more concise.
+
+-   Modify the 'Value' part of sresult.Rd to make it more concise.
+
 Test environments
 -----------------
 

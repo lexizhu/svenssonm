@@ -1,6 +1,6 @@
 ---
 title: "NEWS"
-author: "Lexi Zhu"
+author: "Yingyan Zhu"
 date: "2017.8.2"
 output: md_document
 ---

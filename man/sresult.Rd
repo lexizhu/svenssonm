@@ -11,11 +11,10 @@ sresult(t)
 }
 \value{
 \code{sresult} lists the results for Svensson's method. PA for percentage agreement,
-RP for relative position, SE(RP) and CI(RP) for the corresponding standard error and 95\% confidence interval,
-RC for relative concentration, SE(RC) and CI(RC) for the corresponding standard error and 95\% confidence interval,
-RV for relative rank variance, SE(RV) and CI(RV) for the corresponding standard error and 95\% confidence interval,
-IV for internal rank variance, R.Alpha for augmented correlation coefficient, P.R.Alpha for the corresponding p-value
-(significant level 0.05).
+RP for relative position, RC for relative concentration, RV for relative rank variance,
+SE(RP), SE(RC), SE(RV) for the corresponding standard error and CI(RP), CI(RC),  CI(RV) for
+the 95\% confidence interval. IV for internal rank variance, R.Alpha for augmented correlation
+coefficient, P.R.Alpha for the corresponding p-value (significant level 0.05).
 }
 \description{
 List all the results for Svensson's Method. Including percentage agreement, systematic change
